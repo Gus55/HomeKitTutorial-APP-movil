@@ -1,5 +1,6 @@
 
-# # LightSwitch Homekit prende/apaga foco
+# # HomeKitTutorial-APP-movil
+
 
 El objetivo de la aplicación es probar la funcionalidad de HomeKit al interactuar con accesorios externos a una computadora, haciendo uso de un simulador de accesorios para las personas que no cuentan con dispositivos físicos. Esta aplicación hará la función de prender y apagar uno o más focos dentro de una o más casas.
 
